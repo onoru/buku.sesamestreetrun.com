@@ -1,0 +1,21 @@
+[01-May-2020 04:34:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/config.php on line 7
+[03-May-2020 04:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php on line 30
+[07-May-2020 01:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php on line 30
+[07-May-2020 01:21:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php on line 30
+[07-May-2020 01:25:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/register.php on line 30
+[07-May-2020 01:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/about.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vnkps4umepy3/public_html/buku.sesamestreetrun.com/about.php on line 16
